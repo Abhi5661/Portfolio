@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="container flex">
+        <div class="myself">
+          <a href="./"
+            ><img src="images/web-images/abhishek-photo.jpg" alt=""
+          /></a>
+          <h1>Abhishek Kumar</h1>
+        </div>
+        <nav class="nav">
+          <a href="./" class="active">Projects</a>
+          <a href="./about.html">About</a>
+          <a href="./resume.pdf"
+            >Resume<a download="resume.pdf" href="resume.pdf"
+              ><i class="fa-solid fa-download"></i></a
+          ></a>
+        </nav>
+      </div>
+      <div class="blur"></div>
+    </header>
+    <main>
+      <div class="container">
+        <ul class="filters" id="filters">
+          <li class="active" id="all">ALL</li>
+          <li id="html">HTML</li>
+          <li id="css">CSS</li>
+          <li id="js">JavaScript</li>
+          <li id="react">ReactJS</li>
+        </ul>
+        <div class="projects flex" id="projects"></div>
+      </div>
+    </main>
+    <footer>
+      <div class="container">
+        Made with ❤ and ☕ in Bangalore - <span id="year">2023</span>
+      </div>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+</html>

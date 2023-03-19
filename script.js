@@ -18,17 +18,24 @@ yearEl.innerHTML = new Date().getFullYear();
 
 const projects = [
   {
+    name: "Calender",
+    img: "calender.PNG",
+    codeUrl: "https://github.com/Abhi5661/calender",
+    liveUrl: "https://abhi5661.github.io/calender/",
+    tags: ["js"],
+  },
+  {
     name: "Fan",
     img: "fan.PNG",
     codeUrl: "https://github.com/Abhi5661/fan",
     liveUrl: "https://abhi5661.github.io/fan/",
-    tags: ["css", "js"],
+    tags: ["js"],
   },
   {
-    name: "To-do-list",
-    img: "to-do-list.PNG",
-    codeUrl: "https://github.com/Abhi5661/my-to-do-list",
-    liveUrl: "https://abhi5661.github.io/my-to-do-list/",
+    name: "Temperature converter",
+    img: "temp-converter.PNG",
+    codeUrl: "https://github.com/Abhi5661/temperature-converter",
+    liveUrl: "https://abhi5661.github.io/temperature-converter/",
     tags: ["js"],
   },
   {
@@ -44,6 +51,13 @@ const projects = [
     codeUrl: "https://github.com/Abhi5661/assignment-2-edyoda_stories",
     liveUrl: "https://abhi5661.github.io/assignment-2-edyoda_stories/",
     tags: ["html", "css"],
+  },
+  {
+    name: "To-do-list",
+    img: "to-do-list.PNG",
+    codeUrl: "https://github.com/Abhi5661/my-to-do-list",
+    liveUrl: "https://abhi5661.github.io/my-to-do-list/",
+    tags: ["js"],
   },
 ];
 

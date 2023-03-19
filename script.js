@@ -43,14 +43,14 @@ const projects = [
     img: "favourite-food.PNG",
     codeUrl: "https://github.com/Abhi5661/food-web-app",
     liveUrl: "https://abhi5661.github.io/food-web-app/",
-    tags: ["html", "css"],
+    tags: ["html&css"],
   },
   {
     name: "Edyoda Stories",
     img: "edyoda-stories.PNG",
     codeUrl: "https://github.com/Abhi5661/assignment-2-edyoda_stories",
     liveUrl: "https://abhi5661.github.io/assignment-2-edyoda_stories/",
-    tags: ["html", "css"],
+    tags: ["html&css"],
   },
   {
     name: "To-do-list",

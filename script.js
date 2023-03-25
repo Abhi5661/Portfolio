@@ -18,6 +18,13 @@ yearEl.innerHTML = new Date().getFullYear();
 
 const projects = [
   {
+    name: "Nuuk App",
+    img: "nuuk-app.PNG",
+    codeUrl: "https://github.com/Abhi5661/html-css-final-assignment",
+    liveUrl: "https://abhi5661.github.io/html-css-final-assignment/",
+    tags: ["html"],
+  },
+  {
     name: "Calender",
     img: "calender.PNG",
     codeUrl: "https://github.com/Abhi5661/calender",

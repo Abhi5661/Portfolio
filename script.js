@@ -59,6 +59,20 @@ const projects = [
     liveUrl: "https://abhi5661.github.io/my-to-do-list/",
     tags: ["js"],
   },
+  {
+    name: "Quiz-app",
+    img: "quiz-app.PNG",
+    codeUrl: "https://github.com/Abhi5661/quiz-page",
+    liveUrl: "https://abhi5661.github.io/quiz-page/",
+    tags: ["js"],
+  },
+  {
+    name: "Theme-change",
+    img: "theme-change.PNG",
+    codeUrl: "https://github.com/Abhi5661/js-assignment-01-change-theme",
+    liveUrl: "https://abhi5661.github.io/js-assignment-01-change-theme/",
+    tags: ["js"],
+  },
 ];
 
 function renderProjects(tag) {

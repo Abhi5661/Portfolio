@@ -25,6 +25,13 @@ const projects = [
     tags: ["html"],
   },
   {
+    name: "Stunning Page",
+    img: "stunning-page.PNG",
+    codeUrl: "https://github.com/Abhi5661/stunning-landing-page",
+    liveUrl: "https://abhi5661.github.io/stunning-landing-page/",
+    tags: ["html"],
+  },
+  {
     name: "Calender",
     img: "calender.PNG",
     codeUrl: "https://github.com/Abhi5661/calender",

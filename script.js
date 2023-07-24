@@ -94,6 +94,13 @@ const projects = [
     liveUrl: "https://abhi5661.github.io/Reaction-Timer/",
     tags: ["js"],
   },
+  {
+    name: "Form-Validation",
+    img: "form-validation.PNG",
+    codeUrl: "https://github.com/Abhi5661/Form-Validation",
+    liveUrl: "https://abhi5661.github.io/Form-Validation/",
+    tags: ["js"],
+  },
 ];
 
 function renderProjects(tag) {

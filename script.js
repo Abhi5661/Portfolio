@@ -89,7 +89,7 @@ const projects = [
   },
   {
     name: "Reaction-Timer",
-    img: "REaction-timer.PNG",
+    img: "Reaction-timer.PNG",
     codeUrl: "https://github.com/Abhi5661/Reaction-Timer",
     liveUrl: "https://abhi5661.github.io/Reaction-Timer/",
     tags: ["js"],

@@ -87,6 +87,13 @@ const projects = [
     liveUrl: "https://abhi5661.github.io/js-assignment-01-change-theme/",
     tags: ["js"],
   },
+  {
+    name: "Reaction-Timer",
+    img: "REaction-timer.PNG",
+    codeUrl: "https://github.com/Abhi5661/Reaction-Timer",
+    liveUrl: "https://abhi5661.github.io/Reaction-Timer/",
+    tags: ["js"],
+  },
 ];
 
 function renderProjects(tag) {

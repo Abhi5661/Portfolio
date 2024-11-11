@@ -53,6 +53,13 @@ const projects = [
     tags: ["js"],
   },
   {
+    name: "Calorie Counter",
+    img: "calorie-counter.PNG",
+    codeUrl: "https://github.com/Abhi5661/Calorie-Counter",
+    liveUrl: "https://abhi5661.github.io/Calorie-Counter/",
+    tags: ["js"],
+  },
+  {
     name: "Favourite food app",
     img: "favourite-food.PNG",
     codeUrl: "https://github.com/Abhi5661/food-web-app",
